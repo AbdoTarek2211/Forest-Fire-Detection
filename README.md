@@ -48,3 +48,7 @@ File Structure
 Results
 
 Upon running the fire_detection.py script, the CNN model is trained on the dataset, and its performance is evaluated. Additionally, the script allows for predicting whether a given input image contains fire or not.
+
+Fire Dataset
+
+for the fire dataset please contact me if you require it
