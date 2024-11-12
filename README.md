@@ -51,4 +51,4 @@ Upon running the fire_detection.py script, the CNN model is trained on the datas
 
 Fire Dataset
 
-For the fire dataset please contact me if you require it
+(https://www.kaggle.com/datasets/phylake1337/fire-dataset)
