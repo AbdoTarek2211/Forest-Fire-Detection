@@ -28,10 +28,6 @@ To run the code, you need to have the following dependencies installed:
     Plotly
     Scikit-learn
 
-You can install these dependencies using pip:
-
-pip install -r requirements.txt
-
 Usage
 
     Clone the repository to your local machine.
